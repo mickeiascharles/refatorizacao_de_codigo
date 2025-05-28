@@ -1,2 +1,4 @@
 # refatorizacao_de_codigo
-Práticas na Universidade
+Universidade Católica de Brasília
+matéria Qualidade de Software e Governança
+professora Sybelle Nogueira
